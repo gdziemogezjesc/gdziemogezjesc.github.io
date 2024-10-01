@@ -38,7 +38,7 @@
 .container img {
     width: 100px;
     height: 100px;
-    object-fit: cover;
+    object-fit: fill;
     margin-right: 20px;
 }
 
